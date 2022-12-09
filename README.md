@@ -1,8 +1,16 @@
-### Hi there 👋
+## Hi there! 👋
+
+- 💻 I'm a software engineer
+- 🔭 I like tech projects applied in the medical domain
+- 👯 Always looking to collaborate on open source projects
+- :soccer: Football data analytics enthusiast
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pdpino&count_private=true&theme=dark&show_icons=true&hide_rank=true" alt="pdpino" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdpino&count_private=true&layout=compact&theme=dark&hide=jupyter%20notebook" alt="pdpino" /></p>
+
 
 <!--
-**pdpino/pdpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
